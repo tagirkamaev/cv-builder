@@ -1,3 +1,5 @@
+import '../styles/InputGroup.css'
+
 export default function InputGroup({
     type,
     id,
