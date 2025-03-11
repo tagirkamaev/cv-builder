@@ -22,7 +22,7 @@ export default function PersonalDetails({ onChange, email, fullName, phoneNumber
                 value={email}
                 onChange={onChange}
                 data-key='email'
-                // recommended
+                recommended
             />
             <InputGroup
                 type='tel'
