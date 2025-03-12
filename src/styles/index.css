@@ -1,15 +1,15 @@
 @font-face {
-  font-family: "NotoSans";
+  font-family: 'NotoSans';
   src: url(../fonts/NotoSans-Regular.ttf);
 }
 
 @font-face {
-  font-family: "NotoSans-Bold";
+  font-family: 'NotoSans-Bold';
   src: url(../fonts/NotoSans-Bold.ttf);
 }
 
 @font-face {
-  font-family: "NotoSans-SemiBold";
+  font-family: 'NotoSans-SemiBold';
   src: url(../fonts/NotoSans-SemiBold.ttf);
 }
 
@@ -25,12 +25,12 @@
 
 body {
   --resume-accent: #0e374e;
-  --resume-font: "NotoSans", sans-serif;
-  --resume-bold: "NotoSans-Bold", sans-serif;
+  --resume-font: 'NotoSans', sans-serif;
+  --resume-bold: 'NotoSans-Bold', sans-serif;
   --header-resume-color: white;
   --section-resume-bg: rgba(14, 55, 78, 0.07);
   --main-bg-color: #f3f4f6;
-  font-family: "NotoSans", sans-serif;
+  font-family: 'NotoSans', sans-serif;
   background-color: var(--main-bg-color);
 }
 
@@ -42,5 +42,5 @@ h1,
 h2,
 h3 {
   margin-bottom: 14px;
-  font-family: "NotoSans-bold";
+  font-family: 'NotoSans-bold';
 }
